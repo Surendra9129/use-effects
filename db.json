@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "surendra",
+      "age": "45",
+      "address": "varanasi",
+      "department": "web_dev",
+      "salary": "75000",
+      "marital_status": "not maried",
+      "id": 1
+    },
+    {
+      "name": "surendra",
+      "age": "45",
+      "address": "varanasi",
+      "department": "web_dev",
+      "salary": "75000",
+      "marital_status": "not maried",
+      "id": 2
+    }
+  ]
+}
